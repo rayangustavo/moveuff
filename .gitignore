@@ -1,0 +1,11 @@
+.cartesi/
+.venv/
+out/
+cache/
+node_modules/
+nonodo.logs
+db.*
+run-test.sh
+stop.sh
+__pycache__/
+./Dockerfile
